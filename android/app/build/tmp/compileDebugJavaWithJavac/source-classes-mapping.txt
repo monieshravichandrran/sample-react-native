@@ -1,0 +1,14 @@
+com/samp/BuildConfig.java
+ com.samp.BuildConfig
+com/samp/MainApplication.java
+ com.samp.MainApplication
+ com.samp.MainApplication$1
+com/samp/MainActivity.java
+ com.samp.MainActivity
+com/samp/ReactNativeFlipper.java
+ com.samp.ReactNativeFlipper
+ com.samp.ReactNativeFlipper$1
+ com.samp.ReactNativeFlipper$2
+ com.samp.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
